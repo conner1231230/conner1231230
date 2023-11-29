@@ -1,8 +1,14 @@
 # Conner Lin (林政旭)
+## Basic Information
+- Mail: conner1231230@gmail.com
+- LinkedIn: www.linkedin.com/in/conner1231230
+
 ## Introduction
 - a
 - b
 - c
+
+---
 ## :blue_book:Education Background
 ### Master: National Tsing Hua University (NTHU)
 - #### Grade:
@@ -39,12 +45,12 @@
   | MATH1012 微積分(二) | A (86) |
   | ES2250 線性代數 | A (88) |
   | ES1131 計算機概論 | B+ (78) |
-
-  ## Projects
+---
+## Projects
   
-    - a
-      
-  ## Certification
-    Oxford Online Placement Test: 84 / C1
+  - a
+---
+## Certification
+  Oxford Online Placement Test: 84 / C1
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=conner1231230)
