@@ -1,15 +1,16 @@
 # Conner Lin (林政旭)
-## Basic Information
+## :incoming_envelope: Basic Information
 - Mail: conner1231230@gmail.com
 - LinkedIn: www.linkedin.com/in/conner1231230
+- Leetcode: https://leetcode.com/conner1231230/
 
-## Introduction
+## :pill: Introduction
 - a
 - b
 - c
 
 ---
-## :blue_book:Education Background
+## 📖 Education Background
 ### Master: National Tsing Hua University (NTHU)
 - #### Grade:
   |  科目                                       | 成績                         |
@@ -46,11 +47,13 @@
   | ES2250 線性代數 | A (88) |
   | ES1131 計算機概論 | B+ (78) |
 ---
-## Projects
+## 🤡 Projects
   
   - a
 ---
-## Certification
-  Oxford Online Placement Test: 84 / C1
+## 📑 Certification
+  - Oxford Online Placement Test: 84 / C1
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=conner1231230)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/conner1231230?theme=wtf&font=Bahianita&ext=contest)
+
+  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=conner1231230)
