@@ -16,7 +16,7 @@
 
   
 ### Bachelor: National Cheng Kung University (NCKU)
-- #### Grade: **GPA(4.03) /Average Grad (89.24)**
+- #### Grade: **GPA(4.03) /Average Grad (89.24)** , Academic Excellence Award, top two in the class
   | 科目 | 成績 |
   |------|------|
   | ES2320 作業系統 | A+ (95) |
@@ -40,7 +40,10 @@
   | ES2250 線性代數 | A (88) |
   | ES1131 計算機概論 | B+ (78) |
 
+  ## Projects
   
+    - a
+      
   ## Certification
     Oxford Online Placement Test: 84 / C1
 
