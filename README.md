@@ -17,6 +17,20 @@
     - CS 613500 VLSI Physical Design Automation (VLSI實體設計自動化):
 ### Bachelor: National Cheng Kung University (NCKU)
 - #### Grade:
-
-- 
+  - ##### First Semester of First Year:
+      -
+  - ###### Second Semester of First Year:
+      - 
+  - ##### First Semester of Second Year:
+    - 
+  - ##### Second Semester of Second Year:
+    - 
+  - ##### First Semester of Third Year:
+    - 
+  - ##### Second Semester of Third Year:
+    -
+  - ##### First Semester of Fourth Year:
+    - 
+  - ##### Second Semester of Fourth Year:
+    -  
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=conner1231230)
