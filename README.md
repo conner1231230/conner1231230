@@ -6,13 +6,13 @@
 ## :blue_book:Education Background
 ### Master: National Tsing Hua University (NTHU)
 - #### Grade:
-  |  科目                                       | 成績                         | 單位數/總學分   |
-  |------------------------------------------|----------------------------|---------------|
-  | EE 466000 Introduction to Reinforcement Learning (強化學習導論) | A (7/39)                    | 7/39          |
-  | CS 516000 FPGA Architecture & CAD (FPGA結構及設計自動化)        | A- (29/55)                  | 29/55         |
-  | EE 551000 System Theory (系統理論)                 | A+ (1/20)                   | 1/20          |
-  | EE 648500 Computer Vision (計算機視覺)               | 未提供成績                      | 未提供單位數/總學分 |
-  | CS 613500 VLSI Physical Design Automation (VLSI實體設計自動化) | 未提供成績                      | 未提供單位數/總學分 |
+  |  科目                                       | 成績                         |
+  |------------------------------------------|----------------------------|
+  | EE 466000 Introduction to Reinforcement Learning (強化學習導論) | A (7/39)                    |
+  | CS 516000 FPGA Architecture & CAD (FPGA結構及設計自動化)        | A- (29/55)                  |
+  | EE 551000 System Theory (系統理論)                 | A+ (1/20)                   |
+  | EE 648500 Computer Vision (計算機視覺)               | 未提供成績                      |
+  | CS 613500 VLSI Physical Design Automation (VLSI實體設計自動化) | 未提供成績                      |
 
   
 ### Bachelor: National Cheng Kung University (NCKU)
