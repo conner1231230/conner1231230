@@ -4,7 +4,7 @@
 - LinkedIn: www.linkedin.com/in/conner1231230
 - Leetcode: https://leetcode.com/conner1231230/
 
-## :pill: Introduction
+## 👨‍🎓 Introduction
 - a
 - b
 - c
