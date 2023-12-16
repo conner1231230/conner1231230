@@ -50,4 +50,7 @@
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/conner1231230?theme=wtf&font=Bahianita&ext=contest)
 
+  ![image](https://github.com/conner1231230/conner1231230/assets/94916111/58e82b14-9f36-48ca-93ec-faf07ca40c47)
+
+
   ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=conner1231230)
